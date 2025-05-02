@@ -4,7 +4,7 @@ API RESTful para la creación y gestión de usuarios, desarrollada con Spring Bo
 
 Este servicio permite crear, consultar, actualizar y eliminar usuarios, cumpliendo con los requisitos de BCI indicados en "Ejercicio_JAVA 1.pdf".
 
-Para mayor compatibilidad, abrir este README en bloc de notas de windows.
+Para mayor compatibilidad, abrir este README en bloc de notas de windows o ver en github.
 
 ---
 
