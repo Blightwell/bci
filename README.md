@@ -30,16 +30,23 @@ Para mayor compatibilidad, abrir este README en bloc de notas de windows.
 
 ## ⚙️ Instalación y ejecución
 
-Haciendo clone al repo de github:
-git clone https://github.com/Blightwell/bci.git
-cd user-api
-mvn clean install
-mvn spring-boot:run
+Desde terminal, haciendo clone al repo de github:
+
+> git clone https://github.com/Blightwell/bci.git
+
+> cd user-api
+
+> mvn clean install
+
+> mvn spring-boot:run
 
 O descargando el proyecto a local (git clone ya no es necesario):
-cd user-api
-mvn clean install
-mvn spring-boot:run
+
+> cd user-api
+
+> mvn clean install
+
+> mvn spring-boot:run
 
 -> El servicio REST quedará disponible en: http://localhost:8080
 
@@ -66,6 +73,8 @@ SELECT * FROM TELEFONO
 | PUT    | `/usuarios/{id}`        | Reemplazar usuario completo          |
 | PATCH  | `/usuarios/{id}`        | Modificar parcialmente un usuario    |
 | DELETE | `/usuarios/{id}`        | Eliminar usuario                     |
+
+---
 
 ## 📥 Ejemplo de creación (POST /usuarios)
 

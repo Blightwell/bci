@@ -1,10 +1,24 @@
-Archivos y directorios generados por Eclipse
+# Archivos y directorios generados por Eclipse
 .classpath
 .project
 .settings/
+
+# Archivos y directorios generados por Maven
 target/
+
+# Archivos específicos mencionados (aunque ya están cubiertos por target/)
+target/maven-archiver/
+target/maven-status/
+target/user-api-1.0.0-SNAPSHOT.jar
+target/user-api-1.0.0-SNAPSHOT.jar.original
+
+# Archivos de configuración local de IDEs
 .idea/
 *.iml
+
+# Archivos de sistema operativo
 .DS_Store
 Thumbs.db
+
+# Archivos de logs
 *.log
