@@ -30,7 +30,7 @@ Este servicio permite crear, consultar, actualizar y eliminar usuarios, cumplien
 
 Haciendo clone al repo de github:
 git clone https://github.com/Blightwell/bci.git
-cd user-api
+cd bci/user-api
 mvn clean install
 mvn spring-boot:run
 
