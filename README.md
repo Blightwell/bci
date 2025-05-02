@@ -35,7 +35,7 @@ mvn clean install
 mvn spring-boot:run
 
 o descargando el projecto a local (git clone ya no es necesario):
-cd user-api
+cd bci/user-api
 mvn clean install
 mvn spring-boot:run
 
