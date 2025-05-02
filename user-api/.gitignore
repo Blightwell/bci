@@ -1,0 +1,10 @@
+Archivos y directorios generados por Eclipse
+.classpath
+.project
+.settings/
+target/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+*.log
