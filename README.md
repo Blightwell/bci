@@ -63,6 +63,8 @@ SELECT * FROM USUARIO
 o
 SELECT * FROM TELEFONO
 
+* No necesita script de generación, se crea sola al compilar y correr el servicio, a partir de las clases modelos en el proyecto, solo tiene memoria de la ejecución actual.
+
 ---
 
 ## 📘 Endpoints disponibles
